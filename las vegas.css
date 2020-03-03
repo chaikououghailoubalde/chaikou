@@ -1,0 +1,79 @@
+body{
+	font-family: "Franklin Gothic Medium", "Arial Harrow", Arial, sans-serif;
+	background-color:white;
+}
+
+nav> ul> li{
+	display: inline-block;
+	padding: 20px;
+	border: 3px solid;
+	border-radius: 100px 100px 0 0;
+	position: relative;
+	width: 150px;
+}
+nav li{
+list-style-type: none;
+}
+nav a{
+	text-decoration: none;
+	color:blue;
+}
+.menu1{
+	background-image: url(image/accueil.png);
+}
+.menu2{
+	background-image: url(image/dhabi.jpg);
+}
+.menu3{
+	background-image: url(image/colisee.png);
+}
+.menu4{
+	background-image: url(image/pyramide.jpg);
+}
+.menu5{
+	background-image: url(image/chateau.jpg);
+}
+.menu6{
+	background-image: url(image/lass.jpg);
+}
+header
+{
+	background-image: url(image/vegass.jpg);
+	margin-top: -8px;
+	margin-bottom: -65px;
+}
+
+header h1
+{
+display: inline-block;
+color: rgb(247, 241, 241);
+}
+header h2
+{
+font-family: Dayrom, serif;
+font-size: 1.5em;
+margin-top: 10px;
+font-weight: bold;
+color:rgb(247, 4, 4);
+}
+section{
+	margin-left: -8px;
+	margin-right: -8px;
+}
+article{
+	background-color: rgb rgb(255, 254, 254);
+}
+article h1{
+	text-align: center;
+	font-size: 4em;
+	border-style: solid;
+	background-image: url(image/vegass.jpg);
+	height: 80%;
+}
+article h2{
+	text-align: center;
+	font-size: 2em;
+	border-style: solid;
+	background-image: url(image/chateauu.jpg);
+}
+

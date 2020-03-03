@@ -1,0 +1,73 @@
+body{
+	font-family: "Franklin Gothic Medium", "Arial Harrow", Arial, sans-serif;
+	background-image: url(image/shit.jpg);
+}
+
+nav> ul> li{
+	display: inline-block;
+	padding: 20px;
+	border: 3px solid;
+	border-radius: 100px 100px 0 0;
+	position: relative;
+	width: 150px;
+}
+nav li{
+list-style-type: none;
+}
+nav a{
+	text-decoration: none;
+	color:blue;
+}
+.menu1{
+	background-image: url(image/capture.png);
+}
+.menu2{
+	background-image: url(image/dhabi.jpg);
+}
+.menu3{
+	background-image: url(image/colisee.png);
+}
+.menu4{
+	background-image: url(image/pyramide.jpg);
+}
+.menu5{
+	background-image: url(image/chateau.jpg);
+}
+.menu6{
+	background-image: url(image/vegass.jpg);
+}
+header
+{
+	
+background-image: url(image/shit.jpg);
+margin-top: 28px;
+
+
+
+}
+
+header h1
+{
+display: inline-block;
+
+color: rgb(0, 45, 243);
+}
+header h2
+{
+font-family: Dayrom, serif;
+font-size: 1.7em;
+margin-top: 10px;
+font-weight: bold;
+color: red;
+}
+marquee{
+	border-style: solid;
+	font-size: 40px;
+	margin-top: -16px;
+	margin-left: -8px;
+	margin-right: -8px;
+	background-color: rgba(0, 255, 255, 0.884);
+}
+
+
+
